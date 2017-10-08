@@ -1,0 +1,14 @@
+body {
+	background-color: black;
+	background-image: url(../images/psychic-ability.jpg);
+	width: 100%;
+	height: auto;
+	background-repeat: no-repeat;
+	background-image: center;
+}
+
+#game {
+	color: white;
+	font-size: 40px;
+	font-family: 'Keania One', cursive;
+}
